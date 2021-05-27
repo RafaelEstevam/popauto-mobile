@@ -140,7 +140,8 @@ GOOGLE. Places API. 2021. Disponível em: https://developers.google.com/maps/doc
 
 AWS. Amazon S3. 2021. Disponível em: https://aws.amazon.com/pt/s3/. Acesso em 26 mai. 2021.
 
-SOCKET IO. Documentation. 2021. Disponível em: https://socket.io/docs/v4. Acesso em 26 mai. 2021
+SOCKET IO. Documentation. 2021. Disponível em: https://socket.io/docs/v4. Acesso em 26 mai. 2021.
+
 REACT NATIVE. Introduction. 2021. Disponível em: https://reactnative.dev/docs/getting-started. Acesso em 26 mai. 2021.
 
 MONGO DB. Guides. 2021. Disponível em: https://docs.mongodb.com/guides/ . Acesso em 26 mai. 2021.
