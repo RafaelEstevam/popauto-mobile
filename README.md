@@ -74,7 +74,7 @@ Com base na proposta do aplicativo e nos recursos que serão adicionados a ele, 
 
 ## 4.6 - Exemplo de estrutura da aplicação
 
-A fim de esclarecer como as tecnologias serão interligadas entre si, abaixo há uma ilustração de como elas se comunicarão.
+A fim de esclarecer como as tecnologias serão interligadas entre si, abaixo há o fluxograma de como elas se comunicarão.
 
 ![image](./Screenshot_1.png)
 
