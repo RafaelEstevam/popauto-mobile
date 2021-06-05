@@ -128,6 +128,8 @@ https://github.com/RafaelEstevam/popauto-back
 
 ## Referências
 
+PERES, Vivileine Maria; MALDONADO, Wilfredo L.; CANDIDO, Osvaldo. Seguros de automóvel no Brasil: concentração e demanda de mercado. 2019. Disponível em: https://www.scielo.br/j/rcf/a/Wy8SP4CbttBhjFk3CMtb6qp/?lang=pt. Acesso em: 29 maio. 2021.
+
 COSTA, Karen. 70% da frota brasileira circula sem seguro. 2018. Disponível em: https://encontresuafranquia.com.br/70-da-frota-brasileira-de-carros-circula-sem-seguro-de-carro/. Acesso em: 10 abr. 2021.
 
 OLIVEIRA, Ricardo de. Quantos carros possuem seguro no brasil?. 2018 . Disponível em: https://www.noticiasautomotivas.com.br/quantos-carros-possuem-seguro-no-brasil/. Acesso em: 20 abr. 2021.
